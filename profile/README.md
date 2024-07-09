@@ -1,6 +1,4 @@
-# Welcome to Evomi 🌐
-
-[![Evomi Banner](https://framerusercontent.com/images/N2DKLlKGPmYMPMIryD9Kj92O0.png?scale-down-to=1024&lossless=1)](https://evomi.com)
+[![Evomi Banner](https://my.evomi.com/images/brand/banner-blue.png)](https://evomi.com)
 
 ## Your One-Stop Solution for Data Intelligence 🚀
 
