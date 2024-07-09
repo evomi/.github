@@ -1,10 +1,10 @@
-[![Evomi Banner](https://my.evomi.com/images/brand/banner-blue.png)](https://evomi.com)
 
 ## Your One-Stop Solution for Data Intelligence 🚀
 
 Efficiently Access and Structure Data from any website, bypassing all restrictions and blocks on the way.
 
 ### 🇨🇭 Proudly Made in Switzerland
+
 
 ## Our Products
 
@@ -15,6 +15,8 @@ Efficiently Access and Structure Data from any website, bypassing all restrictio
 
 ### Coming Soon
 - **Scraper APIs**
+
+
 
 ## Why Choose Evomi?
 
@@ -61,4 +63,5 @@ curl -x rp.evomi.com:1000 -U "USER:PASS" https://ip.evomi.com/s
 
 ---
 
-Evomi - Empowering Your Data Intelligence Journey
+[![Evomi Banner](https://framerusercontent.com/images/N2DKLlKGPmYMPMIryD9Kj92O0.png?scale-down-to=1024&lossless=1)](https://evomi.com)
+
