@@ -63,5 +63,5 @@ curl -x rp.evomi.com:1000 -U "USER:PASS" https://ip.evomi.com/s
 
 ---
 
-[![Evomi Banner](https://my.evomi.com/images/brand/cta.png)](https://evomi.com)
+[![Evomi Banner](https://my.evomi.com/images/brand/cta.png)](https://evomi.com?utm_source=github&utm_medium=banner&utm_campaign=github_main_profile)
 
