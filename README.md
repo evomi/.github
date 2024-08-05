@@ -1,6 +1,6 @@
 # Welcome to Evomi 🌐
 
-[![Evomi Banner](https://framerusercontent.com/images/N2DKLlKGPmYMPMIryD9Kj92O0.png?scale-down-to=1024&lossless=1)](https://evomi.com)
+[![Evomi Banner](https://framerusercontent.com/images/N2DKLlKGPmYMPMIryD9Kj92O0.png?scale-down-to=1024&lossless=1)](https://evomi.com?utm_source=github&utm_medium=banner&utm_campaign=github_main_profile)
 
 ## Your One-Stop Solution for Data Intelligence 🚀
 
