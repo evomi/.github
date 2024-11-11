@@ -9,7 +9,7 @@ Efficiently Access and Structure Data from any website, bypassing all restrictio
 ## Our Products
 
 ### Proxy Solutions
-- **Residential Proxies** - from $2.15 /GB
+- **Residential Proxies** - from $0.49 /GB
 - **Mobile Proxies** - from $2.15 /GB
 - **Datacenter Proxies** - from $0.35 /GB
 
