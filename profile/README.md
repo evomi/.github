@@ -59,7 +59,7 @@ curl -x rp.evomi.com:1000 -U "USER:PASS" https://ip.evomi.com/s
 - [Status](https://status.evomi.com/)
 - [Blog](https://evomi.com/blog)
 - [Ethics](https://evomi.com/ethics)
-- [FAQs](https://evomi.com/faqs)
+- [FAQs](https://evomi.com/faq)
 
 ---
 
