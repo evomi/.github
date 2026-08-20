@@ -62,7 +62,7 @@ curl -x rp.evomi.com:1000 -U "USER:PASS" https://ip.evomi.com/s
 - 📧 Email: hello@evomi.com
 - 💬 Support: support@evomi.com or the live-chat in the [dashboard](https://my.evomi.com)
 - 📞 Phone: +41 91 239 14 85
-- 📍 Address: Weissbadstrasse 8B, 9050 Appenzell, Switzerland
+- 📍 Address: Hauptstr. 35A, 8272 Ermatingen, Switzerland
 
 ## Explore More
 
