@@ -10,11 +10,14 @@ Efficiently Access and Structure Data from any website, bypassing all restrictio
 
 ### Proxy Solutions
 - **Residential Proxies** - from $0.49 /GB
-- **Mobile Proxies** - from $2.15 /GB
-- **Datacenter Proxies** - from $0.35 /GB
+- **Premium Residential Proxies** - from $2.20 /GB
+- **Static Residential (ISP) Proxies** - from $1.00 /IP
+- **Mobile Proxies** - from $2.20 /GB
+- **Datacenter Proxies** - from $0.30 /GB
 
-### Coming Soon
-- **Scraper APIs**
+### Scraping Solutions
+- **Scraper API** - from $0.13 / 1K results
+- **Scraping Browser** - from $24.99 /mo
 
 
 
@@ -42,23 +45,31 @@ We're committed to ethical proxy sourcing, ensuring a secure marketplace for bot
 
 ## Get Started
 
+Create your proxy credentials and API keys in the [Evomi Dashboard](https://my.evomi.com), then try them out in one line:
+
 ```bash
 curl -x rp.evomi.com:1000 -U "USER:PASS" https://ip.evomi.com/s
 ```
+
+## Code & Integrations
+
+- [n8n-nodes-evomi](https://github.com/evomi/n8n-nodes-evomi) - our n8n community node for the Evomi Scraper API
+- [residential](https://github.com/evomi/residential-proxies-instructions), [datacenter](https://github.com/evomi/datacenter-proxies-instructions) and [mobile](https://github.com/evomi/mobile-proxies-instructions) proxy instructions - copy-paste examples in Python, Node.js, PHP, Go, Java, C# and cURL
 
 ## Connect With Us
 
 - 🌐 [Website](https://evomi.com)
 - 📧 Email: hello@evomi.com
+- 💬 Support: support@evomi.com or the live-chat in the [dashboard](https://my.evomi.com)
 - 📞 Phone: +41 91 239 14 85
-- 📍 Address: Weissbadstrasse 8B, 9050 Appenzell, Switzerland
+- 📍 Address: Hauptstr. 35A, 8272 Ermatingen, Switzerland
 
 ## Explore More
 
 - [Documentation](https://docs.evomi.com/)
 - [Status](https://status.evomi.com/)
 - [Blog](https://evomi.com/blog)
-- [Ethics](https://evomi.com/ethics)
+- [Ethics](https://evomi.com/company/ethics)
 - [FAQs](https://evomi.com/faq)
 
 ---

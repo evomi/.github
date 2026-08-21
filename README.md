@@ -11,12 +11,15 @@ Efficiently Access and Structure Data from any website, bypassing all restrictio
 ## Our Products
 
 ### Proxy Solutions
-- **Residential Proxies** - from $2.15 /GB
-- **Mobile Proxies** - from $2.15 /GB
-- **Datacenter Proxies** - from $0.35 /GB
+- **Residential Proxies** - from $0.49 /GB
+- **Premium Residential Proxies** - from $2.20 /GB
+- **Static Residential (ISP) Proxies** - from $1.00 /IP
+- **Mobile Proxies** - from $2.20 /GB
+- **Datacenter Proxies** - from $0.30 /GB
 
-### Coming Soon
-- **Scraper APIs**
+### Scraping Solutions
+- **Scraper API** - from $0.13 / 1K results
+- **Scraping Browser** - from $24.99 /mo
 
 ## Why Choose Evomi?
 
@@ -51,7 +54,7 @@ curl -x rp.evomi.com:1000 -U "USER:PASS" https://ip.evomi.com/s
 - 🌐 [Website](https://evomi.com)
 - 📧 Email: hello@evomi.com
 - 📞 Phone: +41 91 239 14 85
-- 📍 Address: Weissbadstrasse 8B, 9050 Appenzell, Switzerland
+- 📍 Address: Hauptstr. 35A, 8272 Ermatingen, Switzerland
 
 ## Explore More
 
